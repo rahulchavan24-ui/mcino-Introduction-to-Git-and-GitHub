@@ -16,3 +16,5 @@ Output
 _© 2022 XYZ, Inc._
 
 Typo fix for Git and GitHub lab.
+
+Pull request practice for the Git lab.
